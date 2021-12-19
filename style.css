@@ -1,0 +1,19 @@
+.card{
+    border: 3px solid green;
+    width: 5rem;
+    margin-left: 7px;
+    background-color: red;
+    cursor: pointer;
+}
+
+#iron{
+    /* border: 3px solid green; */
+    width: 5rem;
+    margin-left: 7px;
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+}
+.modal-body{
+    color: blue;
+}
